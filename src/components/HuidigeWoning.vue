@@ -8,7 +8,7 @@
     <b-collapse id="huidige-woning" visible>
       <b-card-body>
         <div class="row mb-4">
-          <label for class="col-4">Heeft u een bestaande koopwoning?</label>
+          <label for class="col-4">Heeft u een bestaande koopwoning??</label>
           <div class="col-4">
             <b-form-group>
               <b-form-radio-group
